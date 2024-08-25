@@ -1,4 +1,4 @@
 # demoRepo
 This is my demo repo
 <br>
-Author - Mohit Prajapatiii
+Author - Mohit Prajapati
